@@ -9,3 +9,10 @@ This is the problem that will hopefully be solved.
 In order to combat this problem, various machine learning models will be evaluated and backtested in order to determine which ones would yield the highest returns for the investor, or which ones appear to be more accurate and efficent in predicting price movement trends.
 
 ## The Project 
+This project will encorporate several machine learning and pricing models which will be subsequently evaluated on their accuracy. 
+Such models will include 
+- Linear Regression
+- Natural Language Processing 
+- ARMA and ARIMA - Time Series Analysis 
+- Neural Networks
+
