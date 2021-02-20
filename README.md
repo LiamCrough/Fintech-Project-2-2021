@@ -15,4 +15,4 @@ Such models will include
 - Natural Language Processing 
 - ARMA and ARIMA - Time Series Analysis 
 - Neural Networks
-
+- Ensemble Learning
